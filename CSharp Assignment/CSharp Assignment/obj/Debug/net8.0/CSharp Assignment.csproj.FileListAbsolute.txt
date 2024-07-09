@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\bin\Debug\net8.0\CSharp Assignment.exe
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\bin\Debug\net8.0\CSharp Assignment.deps.json
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\bin\Debug\net8.0\CSharp Assignment.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\bin\Debug\net8.0\CSharp Assignment.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\bin\Debug\net8.0\CSharp Assignment.pdb
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\CSharp Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\CSharp Assignment.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\CSharp Assignment.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\CSharp Assignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\CSharp Assignment.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\refint\CSharp Assignment.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\CSharp Assignment.pdb
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\CSharp Assignment.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\C# Assignment\CSharp Assignment\CSharp Assignment\obj\Debug\net8.0\ref\CSharp Assignment.dll
