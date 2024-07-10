@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\bin\Debug\net8.0\Assignmentno02.exe
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\bin\Debug\net8.0\Assignmentno02.deps.json
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\bin\Debug\net8.0\Assignmentno02.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\bin\Debug\net8.0\Assignmentno02.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\bin\Debug\net8.0\Assignmentno02.pdb
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\Assignmentno02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\Assignmentno02.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\Assignmentno02.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\Assignmentno02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\Assignmentno02.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\refint\Assignmentno02.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\Assignmentno02.pdb
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\Assignmentno02.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Assignment 2\Assignmentno02\Assignmentno02\obj\Debug\net8.0\ref\Assignmentno02.dll
